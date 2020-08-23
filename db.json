@@ -1,0 +1,24 @@
+{
+"product"; [
+{"id":1,"name":"Black swan","category":"Teal"},
+{"id":2,"name":"Gull, kelp","category":"Fuscia"},
+{"id":3,"name":"Dragon, netted rock","category":"Maroon"},
+{"id":4,"name":"Parrot, hawk-headed","category":"Indigo"},
+{"id":5,"name":"Red kangaroo","category":"Pink"},
+{"id":6,"name":"Siskin, yellow-rumped","category":"Red"},
+{"id":7,"name":"Duck, comb","category":"Green"},
+{"id":8,"name":"Lilac-breasted roller","category":"Goldenrod"},
+{"id":9,"name":"Jackal, indian","category":"Aquamarine"},
+{"id":10,"name":"Seal, harbor","category":"Red"},
+{"id":11,"name":"Buttermilk snake","category":"Pink"},
+{"id":12,"name":"Macaw, red and blue","category":"Orange"},
+{"id":13,"name":"Arctic fox","category":"Purple"},
+{"id":14,"name":"Plover, blacksmith","category":"Puce"},
+{"id":15,"name":"Skink, african","category":"Blue"},
+{"id":16,"name":"Wolf, timber","category":"Green"},
+{"id":17,"name":"Fox, silver-backed","category":"Mauv"},
+{"id":18,"name":"Feral rock pigeon","category":"Turquoise"},
+{"id":19,"name":"Eagle, crowned","category":"Violet"},
+{"id":20,"name":"Greylag goose","category":"Red"}
+]
+}
